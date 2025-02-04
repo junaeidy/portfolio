@@ -39,7 +39,7 @@ const About = ({isDarkMode}) => {
                 transition={{duration: 0.6, delay: 0.8}}
             className='flex-1 gap-4 mt-4'>
                 <p className='mb-10 max-w-2xl font-Ovo'>
-                    I'm a web developer with a passion for creating innovative and user-friendly websites. I am constantly learning and improving my skills to deliver exceptional results.
+                Saya seorang pengembang web yang berkomitmen untuk menciptakan situs web inovatif dan ramah pengguna. Dengan semangat belajar yang tinggi, saya terus mengembangkan keterampilan saya untuk memberikan solusi digital yang optimal.
                 </p>
                 <motion.ul 
                     initial={{opacity:0}}

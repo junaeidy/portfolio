@@ -53,7 +53,7 @@ const Contact = () => {
              whileInView={{opacity:1}}
              transition={{duration: 0.5, delay: 0.7}}
         className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl eget ultricies ultrices, nunc nisi aliquet nisl, euismod aliquam nisi nisl euismod. Suspendisse potenti. 
+            Saya siap membantu Anda! Jika Anda memiliki pertanyaan, ingin berdiskusi tentang proyek, atau membutuhkan layanan saya, jangan ragu untuk menghubungi saya melalui formulir di bawah ini. Saya akan merespons secepat mungkin. 
         </motion.p>
 
         <motion.form 

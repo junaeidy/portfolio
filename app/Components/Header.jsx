@@ -30,7 +30,7 @@ const Header = () => {
             whileInView={{ opacity:1}}
             transition={{duration: 0.6, delay: 0.7}}
         className='max-w-2xl mx-auto font-Ovo'>
-            I'm a web developer with a passion for creating innovative and user-friendly websites. I am constantly learning and improving my skills to deliver exceptional results. 
+            Saya seorang pengembang web yang berkomitmen untuk menciptakan situs web inovatif dan ramah pengguna. Dengan semangat belajar yang tinggi, saya terus mengembangkan keterampilan saya untuk memberikan solusi digital yang optimal.
         </motion.p>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
             <motion.a 
