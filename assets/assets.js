@@ -89,7 +89,7 @@ export const workData = [
         title: 'Social Media app',
         description: 'Web App',
         bgImage: '/work-2.jpeg',
-        link:''
+        link:'https://youtu.be/GM8qKjuWIf8'
     },
     {
         title: 'Online Course',
